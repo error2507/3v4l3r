@@ -1,0 +1,14 @@
+{
+  "name": "3v4l3r",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js debug"
+  },
+  "author": "error2507",
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2"
+  }
+}
