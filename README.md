@@ -17,4 +17,6 @@
 5. Navigate to the folder using `cd PATH`.
 6. Type `npm install` and press enter.
 7. Now you can type `node main.js` and press enter.
- #### Note: When you shutdown your PC or close the terminal the bot will be offline. To host it 24/7 you need a server.
+#### Note: When you shutdown your PC or close the terminal the bot will be offline. To host it 24/7 you need a server.
+
+# Make sure you enter the right owner ID. When someone else gets access to eval it could be very dangerous. In addition I am not responsible for what you do with the bot. For example if you hit ratelimits or get banned.
